@@ -1,0 +1,50 @@
+{
+  "name": "myupeiexams",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "parse-exams": "node src/scripts/parsepdfcontent.js",
+    "seed-db": "node src/scripts/seedDatabase.js"
+  },
+  "dependencies": {
+    "@auth/mongodb-adapter": "^3.7.4",
+    "@auth0/nextjs-auth0": "^3.5.0",
+    "@radix-ui/react-icons": "^1.3.2",
+    "@radix-ui/react-slot": "^1.1.0",
+    "@radix-ui/react-tabs": "^1.1.1",
+    "bcryptjs": "^2.4.3",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "dotenv": "^16.4.7",
+    "lucide-react": "^0.468.0",
+    "mongodb": "^6.11.0",
+    "mongoose": "^8.8.4",
+    "next": "15.0.4",
+    "next-auth": "^4.24.11",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^2.5.5",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/mongoose": "^5.11.96",
+    "@types/node": "^20.17.9",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  },
+  "resolutions": {
+    "cookie": "^0.7.1"
+  },
+  "overrides": {
+    "cookie": "^0.7.1"
+  }
+}

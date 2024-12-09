@@ -1,0 +1,366 @@
+Section Title Date
+Start
+Time
+End
+Time Location
+Generated Fri Nov 22 13:07:41 AST 2024
+2024 Fall Term
+Exam Schedule
+VHM-3230-1 Equine Health and Disease Oct-01-2024 01:30 PM 02:20 PM AVC 201N
+VHM-3230-1 Equine Health and Disease Oct-01-2024 01:30 PM 03:30 PM AVC 218S
+VPM-2010-1 Bacteriology and Mycology Oct-03-2024 01:30 PM 02:50 PM AVC 201N
+VPM-2110-1 Virology Oct-11-2024 08:30 AM 10:20 AM AVC 218S
+VPM-2210-1 Systemic Pathology I Oct-15-2024 08:30 AM 11:20 AM AVC 201N
+VHM-3220-1 Food Animal Health and Disease Oct-15-2024 01:30 PM 02:20 PM AVC 201N
+VPM-1110-1 Veterinary Immunology Oct-18-2024 01:30 PM 03:00 PM AVC 218S
+VBS-1110-1 Microscopic Anatomy I Oct-22-2024 01:30 PM 04:30 PM AVC 215N
+VBS-1110-1 Microscopic Anatomy I Oct-22-2024 01:30 PM 04:30 PM AVC 207N
+VCA-2520-1 Diagnostic Imaging I Oct-23-2024 08:30 AM 10:20 AM AVC 218S
+VBS-1410-1 Structure and Function I Oct-25-2024 01:30 PM 04:20 PM AVC 201N
+VBS-1210-1 Physiology I Oct-28-2024 08:30 AM 10:00 AM AVC 287N
+VBS-1210-1 Physiology I Oct-28-2024 08:30 AM 10:00 AM AVC 286A N
+VBS-2130-1 Veterinary Pharmacology I Oct-29-2024 01:30 PM 02:20 PM AVC 286B N
+VBS-2130-1 Veterinary Pharmacology I Oct-29-2024 01:30 PM 02:20 PM AVC 286C N
+VBS-2130-1 Veterinary Pharmacology I Oct-29-2024 01:30 PM 02:20 PM AVC 287N
+VBS-2130-1 Veterinary Pharmacology I Oct-29-2024 01:30 PM 02:20 PM AVC 286A N
+VCA-3170-1 Small Animal Surgery Oct-29-2024 01:30 PM 03:30 PM AVC 201N
+VBS-1010-1 Macroscopic Anatomy I Oct-31-2024 01:30 PM 04:30 PM AVC 1140N
+VBS-1010-1 Macroscopic Anatomy I Oct-31-2024 01:30 PM 04:30 PM AVC 207N
+VCA-3150-1 Small Animal Medicine Nov-01-2024 08:30 AM 09:20 AM AVC 201N
+VCA-3150-1 Small Animal Medicine Nov-01-2024 08:30 AM 09:20 AM AVC 205N
+VHM-3230-1 Equine Health and Disease Nov-05-2024 01:30 PM 03:30 PM AVC 218S
+VHM-3230-1 Equine Health and Disease Nov-05-2024 01:30 PM 02:20 PM AVC 201N
+VPM-2010-1 Bacteriology and Mycology Nov-06-2024 01:30 PM 02:50 PM AVC 201N
+VHM-3220-1 Food Animal Health and Disease Nov-12-2024 01:30 PM 02:20 PM AVC 201N
+VPM-2010-1 Bacteriology and Mycology Nov-28-2024 01:30 PM 04:30 PM AVC 215N
+VPM-2010-1 Bacteriology and Mycology Nov-28-2024 01:30 PM 04:30 PM AVC 205N
+VCA-3160-1 Small Animal Primary Care II Nov-30-2024 09:00 AM 11:00 AM AVC 201N
+VCA-3170-1 Small Animal Surgery Dec-02-2024 09:00 AM 11:00 AM AVC 201N
+VPM-2210-1 Systemic Pathology I Dec-02-2024 09:00 AM 12:00 PM AVC 207N
+VPM-2210-1 Systemic Pathology I Dec-02-2024 09:00 AM 12:00 PM AVC 205N
+VBS-1010-1 Macroscopic Anatomy I Dec-02-2024 01:00 PM 04:00 PM AVC 201N
+VBS-1010-1 Macroscopic Anatomy I Dec-02-2024 01:00 PM 04:00 PM AVC 1140N
+VCA-2520-1 Diagnostic Imaging I Dec-04-2024 09:00 AM 12:00 PM AVC 218S
+VHM-3220-1 Food Animal Health and Disease Dec-04-2024 09:00 AM 11:00 AM AVC 201N
+Section Title Date
+Start
+Time
+End
+Time Location
+Generated Fri Nov 22 13:07:41 AST 2024
+2024 Fall Term
+Exam Schedule
+VBS-1210-1 Physiology I Dec-04-2024 01:00 PM 03:00 PM AVC 201N
+VHM-3540-1 Clinical Skills IV Dec-05-2024 01:00 PM 04:00 PM AVC 1285N
+VHM-3540-1 Clinical Skills IV Dec-05-2024 01:00 PM 04:00 PM AVC NB105
+VPM-2010-1 Bacteriology and Mycology Dec-06-2024 09:00 AM 11:00 AM AVC 201N
+VPM-1110-1 Veterinary Immunology Dec-06-2024 01:00 PM 03:00 PM AVC 218S
+VBS-2130-1 Veterinary Pharmacology I Dec-09-2024 09:00 AM 11:30 AM AVC 205N
+VBS-2130-1 Veterinary Pharmacology I Dec-09-2024 09:00 AM 11:30 AM AVC 207N
+VCA-3150-1 Small Animal Medicine Dec-09-2024 09:00 AM 11:00 AM AVC 201N
+VBS-1110-1 Microscopic Anatomy I Dec-09-2024 01:00 PM 04:00 PM AVC 201N
+VBS-1110-1 Microscopic Anatomy I Dec-09-2024 01:00 PM 04:00 PM AVC 215N
+NURS-3230L-01Nursing 3230 Lab Dec-10-2024 08:30 AM 05:00 PM HSB 202
+NURS-3230L-03Nursing 3230 Lab Dec-10-2024 08:30 AM 05:00 PM HSB 202
+NURS-3230L-04Nursing 3230 Lab Dec-10-2024 08:30 AM 05:00 PM HSB 202
+ACCT-3010-01 Intermediate Accounting I Dec-10-2024 09:00 AM 12:00 PM SDMB 117
+CHEM-2410-01 Organic Chemistry I Dec-10-2024 09:00 AM 12:00 PM KMB 237
+CS-2910-01 Computer Science III Dec-10-2024 09:00 AM 12:00 PM YSC 117
+CS-2910-02 Computer Science III Dec-10-2024 09:00 AM 12:00 PM YSC 117
+EC-3310-01 International Trade Dec-10-2024 09:00 AM 12:00 PM
+ENGN-2610-01 Thermo Fluids I Dec-10-2024 09:00 AM 12:00 PM FSDE 128A
+FN-3830-01 Prof. Practice Dietetics Dec-10-2024 09:00 AM 12:00 PM HSB 106
+FR-2410-01 French Composition, Analysis I Dec-10-2024 09:00 AM 12:00 PM SDMB 420
+HIST-3950-01 American Immigration History Dec-10-2024 09:00 AM 12:00 PM MCDH 243
+MATH-1110-01 Finite Mathematics Dec-10-2024 09:00 AM 12:00 PM YSC 117
+MATH-1110-02 Finite Mathematics Dec-10-2024 09:00 AM 12:00 PM YSC 117
+PHYS-2210-01 Modern Physics Dec-10-2024 09:00 AM 12:00 PM HSB 105
+PSY-2120-01 Drugs and Behaviour Dec-10-2024 09:00 AM 12:00 PM YSC 117
+BUS-2510-01 Intro to Management Science Dec-10-2024 02:00 PM 05:00 PM YSC 117
+BUS-2510-02 Intro to Management Science Dec-10-2024 02:00 PM 05:00 PM YSC 117
+MATH-1120-01 Calculus Social, Life Sciences Dec-10-2024 02:00 PM 05:00 PM YSC 117
+MATH-1120-02 Calculus Social, Life Sciences Dec-10-2024 02:00 PM 05:00 PM YSC 117
+MATH-1120-03 Calculus Social, Life Sciences Dec-10-2024 02:00 PM 05:00 PM YSC 117
+MCS-8550-01 Data Analysis & Inference Dec-10-2024 02:00 PM 05:00 PM HSB 104
+NURS-1010-01 Foundations of Nursing I Dec-10-2024 02:00 PM 05:00 PM
+NURS-1010-02 Foundations of Nursing I Dec-10-2024 02:00 PM 05:00 PM
+STAT-4550-01 Data Analysis and Inference Dec-10-2024 02:00 PM 05:00 PM HSB 104
+CS-1910L-05 Computer Science 1910 Lab Dec-10-2024 07:00 PM 10:00 PM CSH 104
+Section Title Date
+Start
+Time
+End
+Time Location
+Generated Fri Nov 22 13:07:41 AST 2024
+2024 Fall Term
+Exam Schedule
+CS-4350-01 Computer Graphics Programming Dec-10-2024 07:00 PM 10:00 PM HSB 105
+FN-2110-01 Introductory Nutrition I Dec-10-2024 07:00 PM 10:00 PM YSC 117
+NURS-2030-01 Health Assessment Dec-10-2024 07:00 PM 10:00 PM YSC 117
+NURS-2030-02 Health Assessment Dec-10-2024 07:00 PM 10:00 PM YSC 117
+PSY-3820-01 Cognitive Psychology Dec-10-2024 07:00 PM 10:00 PM YSC 117
+RS-1710-01 Intro to Catholic Christianity Dec-10-2024 07:00 PM 10:00 PM YSC 117
+RS-2760-01 Catholic Moral Thought Dec-10-2024 07:00 PM 10:00 PM YSC 117
+ACCT-4010-01 Adv. Financial Accounting I Dec-11-2024 09:00 AM 12:00 PM MCDH 328
+AMS-4540-01 Loss Models I Dec-11-2024 09:00 AM 12:00 PM KMB 211
+BIO-1210-01 Human Anatomy (kine) Dec-11-2024 09:00 AM 12:00 PM YSC 117
+BIO-1210-02 Human Anatomy (nurs) Dec-11-2024 09:00 AM 12:00 PM YSC 117
+BIO-2260-01 Human Anatomy and Histology Dec-11-2024 09:00 AM 12:00 PM YSC 117
+CHEM-3610-01 Spectroscopic Struct. Analysis Dec-11-2024 09:00 AM 12:00 PM HSB 106
+CS-1910L-04 Computer Science 1910 Lab Dec-11-2024 09:00 AM 12:00 PM CSH 104
+EC-2030-01 Intermediate Microeconomics I Dec-11-2024 09:00 AM 12:00 PM
+ENGN-3220-01 Engineering Measurements Dec-11-2024 09:00 AM 12:00 PM FSDE 128A
+FN-3510-01 Nutritional Assessment Dec-11-2024 09:00 AM 12:00 PM HSB 105
+HIST-1010-01 Can. Hist. - Pre-Confederation Dec-11-2024 09:00 AM 12:00 PM SDMB 117
+HIST-2610-01 Britain in Age of Revolutions Dec-11-2024 09:00 AM 12:00 PM HSB 104
+MATH-1920-01 Single Variable Calculus II Dec-11-2024 09:00 AM 12:00 PM YSC 117
+MATH-1920-01 Single Variable Calculus II Dec-11-2024 09:00 AM 12:00 PM YSC 117
+MATH-3310-01 Complex Variables Dec-11-2024 09:00 AM 12:00 PM YSC 117
+PHIL-3090-01 Philosophy of Education Dec-11-2024 09:00 AM 12:00 PM SDMB 420
+VCA-3240-1 Adv Sm. Animal Anesthesiology Dec-11-2024 09:00 AM 11:00 AM AVC 201N
+VBS-1410-1 Structure and Function I Dec-11-2024 01:00 PM 03:00 PM AVC 201N
+VHM-2510-1 Clinical Skills II Dec-11-2024 01:00 PM 04:00 PM AVC NB105
+VHM-2510-1 Clinical Skills II Dec-11-2024 01:00 PM 04:00 PM AVC 1285N
+ANTH-2010-01 Cultural Anthropology Dec-11-2024 02:00 PM 05:00 PM KMB 237
+EC-1010-03 Introductory Microeconomics Dec-11-2024 02:00 PM 05:00 PM
+EC-1010-04 Introductory Microeconomics Dec-11-2024 02:00 PM 05:00 PM
+BUS-6530-01 Financial and Managerial Acct Dec-11-2024 07:00 PM 10:00 PM YSC 117
+BUS-6530-02 Financial and Managerial Acct Dec-11-2024 07:00 PM 10:00 PM YSC 117
+FR-2210-02 Langue et Lectures I Dec-11-2024 07:00 PM 10:00 PM HSB 104
+KINE-3530-01 Resistance Training: Exercise Dec-11-2024 07:00 PM 10:00 PM YSC 117
+MATH-1910-01 Single Variable Calculus I Dec-11-2024 07:00 PM 10:00 PM YSC 117
+MATH-1910-02 Single Variable Calculus I Dec-11-2024 07:00 PM 10:00 PM YSC 117
+Section Title Date
+Start
+Time
+End
+Time Location
+Generated Fri Nov 22 13:07:41 AST 2024
+2024 Fall Term
+Exam Schedule
+MATH-1910-03 Single Variable Calculus I Dec-11-2024 07:00 PM 10:00 PM YSC 117
+MATH-1910-04 Single Variable Calculus I Dec-11-2024 07:00 PM 10:00 PM YSC 117
+PHIL-2130-01 Existentialism Dec-11-2024 07:00 PM 10:00 PM YSC 117
+BIO-2630-01 Climate Physics Dec-12-2024 09:00 AM 12:00 PM HSB 104
+BIO-3910-01 Marine Biology Dec-12-2024 09:00 AM 12:00 PM YSC 117
+BUS-3010-01 Business Law - Part I Dec-12-2024 09:00 AM 12:00 PM YSC 117
+BUS-3010-02 Business Law - Part I Dec-12-2024 09:00 AM 12:00 PM YSC 117
+CS-2520-01 Computer Org. and Architecture Dec-12-2024 09:00 AM 12:00 PM YSC 117
+ENG-2850-01 Linguistics I: Sound System Dec-12-2024 09:00 AM 12:00 PM SDMB 213
+ENGN-2310-01 Strength of Materials Dec-12-2024 09:00 AM 12:00 PM YSC 117
+FN-2810-01 Introductory Foods Dec-12-2024 09:00 AM 12:00 PM YSC 117
+KINE-4430-01 Adv Exercise Adapt and Perform Dec-12-2024 09:00 AM 12:00 PM FSDE 128A
+PHYS-2630-01 Climate Physics Dec-12-2024 09:00 AM 12:00 PM HSB 104
+PSY-3080-01 Child Development Dec-12-2024 09:00 AM 12:00 PM YSC 117
+STAT-4330-01 Time Series I Dec-12-2024 09:00 AM 12:00 PM FSDE 301
+VHM-3230-1 Equine Health and Disease Dec-12-2024 09:00 AM 11:00 AM AVC 201N
+BIO-1060-01 Intro. Microbiology Health Sci Dec-12-2024 02:00 PM 05:00 PM YSC 117
+BUS-1410-05 Marketing Dec-12-2024 02:00 PM 05:00 PM
+EC-3040-01 Canadian Economic Problems Dec-12-2024 02:00 PM 05:00 PM HSB 104
+FR-3110-01 Communication En Fran ais I Dec-12-2024 02:00 PM 05:00 PM SDMB 420
+HIST-2010-01 Euro Civilization 500 BC-1648 Dec-12-2024 02:00 PM 05:00 PM YSC 117
+PHYS-1210-01 Physics for Life Sciences I Dec-12-2024 02:00 PM 05:00 PM YSC 117
+PHYS-1210-02 Physics for Life Sciences I Dec-12-2024 02:00 PM 05:00 PM YSC 117
+ACCT-4150-01 Auditing Dec-12-2024 07:00 PM 10:00 PM HSB 104
+ENGN-2810-01 Electric Circuits Dec-12-2024 07:00 PM 10:00 PM FSDE 128A
+ENGN-3630-01 Thermo Fluids III Dec-12-2024 07:00 PM 10:00 PM YSC 117
+KINE-3520-01 Athletic Injury Care, Prevent. Dec-12-2024 07:00 PM 10:00 PM YSC 117
+RS-2210-01 Buddhism East and West Dec-12-2024 07:00 PM 10:00 PM
+UPEI-1030-01 University Studies Dec-12-2024 07:00 PM 10:00 PM YSC 117
+UPEI-1030-02 University Studies Dec-12-2024 07:00 PM 10:00 PM YSC 117
+UPEI-1030-03 University Studies Dec-12-2024 07:00 PM 10:00 PM YSC 117
+UPEI-1030-04 University Studies Dec-12-2024 07:00 PM 10:00 PM YSC 117
+UPEI-1030-05 University Studies Dec-12-2024 07:00 PM 10:00 PM YSC 117
+UPEI-1030-06 University Studies Dec-12-2024 07:00 PM 10:00 PM YSC 117
+UPEI-1030-07 University Studies Dec-12-2024 07:00 PM 10:00 PM
+ACCT-1010-01 Intro. Accounting- Part I Dec-13-2024 09:00 AM 12:00 PM YSC 117
+Section Title Date
+Start
+Time
+End
+Time Location
+Generated Fri Nov 22 13:07:41 AST 2024
+2024 Fall Term
+Exam Schedule
+ACCT-1010-02 Intro. Accounting- Part I Dec-13-2024 09:00 AM 12:00 PM YSC 117
+ACCT-1010-03 Intro. Accounting- Part I Dec-13-2024 09:00 AM 12:00 PM YSC 117
+ACCT-1010-04 Intro. Accounting- Part I Dec-13-2024 09:00 AM 12:00 PM YSC 117
+AMS-2510-01 Long Term Actuarial Math I Dec-13-2024 09:00 AM 12:00 PM KMB 211
+BIO-3110-01 Plants and People Dec-13-2024 09:00 AM 12:00 PM DSC 204
+CHEM-2020-01 Environmental Chemistry Dec-13-2024 09:00 AM 12:00 PM SDMB 117
+CS-3610-01 Analysis, Design of Algorithms Dec-13-2024 09:00 AM 12:00 PM MCDH 242
+ENG-2060-01 Critical Approaches to Texts I Dec-13-2024 09:00 AM 12:00 PM HSB 104
+ENGN-4850-01 Comp. Methods Engn Design Dec-13-2024 09:00 AM 12:00 PM
+FN-3710-01 Lifespan Nutrition Dec-13-2024 09:00 AM 12:00 PM HSB 301
+HIST-2410-01 US Hist Colonial to Recon. Dec-13-2024 09:00 AM 12:00 PM MCDH 243
+PHYS-2010-01 Waves and Oscillations Dec-13-2024 09:00 AM 12:00 PM FSDE 301
+PHYS-3120-01 Electromagnetism I Dec-13-2024 09:00 AM 12:00 PM HSB 105
+PSY-3420-01 Interpersonal Relationships Dec-13-2024 09:00 AM 12:00 PM
+VPM-2110-1 Virology Dec-13-2024 09:00 AM 01:00 PM AVC 218S
+BIO-3260-01 Intro Organism Cell Physio. Dec-13-2024 02:00 PM 05:00 PM YSC 117
+BUS-3660-01 Entrepreneurial Finance Dec-13-2024 02:00 PM 05:00 PM
+CS-3420-01 Computer Communications Dec-13-2024 02:00 PM 05:00 PM FSDE 128A
+EC-3050-01 Intermediate Microeconomics II Dec-13-2024 02:00 PM 05:00 PM HSB 104
+ENGN-3540-01 Intro Bioresources Engineering Dec-13-2024 02:00 PM 05:00 PM HSB 105
+SOC-1010-02 Introduction to Sociology Dec-13-2024 02:00 PM 05:00 PM YSC 117
+STAT-3240-01 Applied Regression Analysis Dec-13-2024 02:00 PM 05:00 PM YSC 117
+BIO-1310-01 Genes, Cells & Macromolecules Dec-13-2024 07:00 PM 10:00 PM YSC 117
+BIO-1310-02 Genes, Cells & Macromolecules Dec-13-2024 07:00 PM 10:00 PM YSC 117
+HIST-3090-01 Europe&military Rev.-1300-1700 Dec-13-2024 07:00 PM 10:00 PM
+PSY-2010-02 Developmental Psychology Dec-13-2024 07:00 PM 10:00 PM
+ACCT-2210-01 Managerial Accounting Dec-14-2024 09:00 AM 12:00 PM
+ACCT-2210-02 Managerial Accounting Dec-14-2024 09:00 AM 12:00 PM
+ACCT-2210-03 Managerial Accounting Dec-14-2024 09:00 AM 12:00 PM
+CHEM-4320-01 Methods in Computational Chem. Dec-14-2024 09:00 AM 12:00 PM HSB 103
+EC-3080-01 Introduction to Econometrics Dec-14-2024 09:00 AM 12:00 PM HSB 104
+ENG-2040-01 Research Methods in English Dec-14-2024 09:00 AM 12:00 PM SDMB 117
+FN-2610-01 Communications Dec-14-2024 09:00 AM 12:00 PM FSDE 128A
+KINE-3610-01 Communications Dec-14-2024 09:00 AM 12:00 PM FSDE 128A
+MATH-2910-01 Multivariable, Vector Calculus Dec-14-2024 09:00 AM 12:00 PM YSC 117
+MATH-2910-02 Multivariable, Vector Calculus Dec-14-2024 09:00 AM 12:00 PM YSC 117
+Section Title Date
+Start
+Time
+End
+Time Location
+Generated Fri Nov 22 13:07:41 AST 2024
+2024 Fall Term
+Exam Schedule
+PHYS-3220-01 Quantum Physics I Dec-14-2024 09:00 AM 12:00 PM HSB 105
+PSY-2010-03 Developmental Psychology Dec-14-2024 09:00 AM 12:00 PM
+STAT-3910-01 Probability and Math Stats II Dec-14-2024 09:00 AM 12:00 PM YSC 117
+BUS-3330-01 Integrated Cases Corp Finance Dec-14-2024 02:00 PM 05:00 PM
+CS-4810-01 Software Engineering Dec-14-2024 02:00 PM 05:00 PM YSC 117
+PSY-1010-03 Intro to Psychology Part I Dec-14-2024 02:00 PM 05:00 PM YSC 117
+PSY-2710-01 Statistics Behavioural Science Dec-14-2024 02:00 PM 05:00 PM HSB 106
+PSY-3050-01 Adolescent Develop. Adjustment Dec-14-2024 02:00 PM 05:00 PM YSC 117
+MATH-2610-01 Linear Algebra I Dec-14-2024 07:00 PM 10:00 PM YSC 117
+MATH-2610-02 Linear Algebra I Dec-14-2024 07:00 PM 10:00 PM YSC 117
+MATH-2610-03 Linear Algebra I Dec-14-2024 07:00 PM 10:00 PM YSC 117
+PHIL-2040-01 Bio-Medical Ethics Dec-14-2024 07:00 PM 10:00 PM YSC 117
+BUS-1410-01 Marketing Dec-15-2024 02:00 PM 05:00 PM YSC 117
+BUS-1410-02 Marketing Dec-15-2024 02:00 PM 05:00 PM YSC 117
+BUS-1410-03 Marketing Dec-15-2024 02:00 PM 05:00 PM YSC 117
+CHEM-2430-01 Organic Chemistry Life Science Dec-15-2024 02:00 PM 05:00 PM YSC 117
+ENGN-4550-01 Biotechnological Processes Dec-15-2024 02:00 PM 05:00 PM HSB 105
+HIST-3230-01 Russian History Since 1682 Dec-15-2024 02:00 PM 05:00 PM FSDE 128A
+KINE-2620-01 Intro Soc. of Sport, Exercise Dec-15-2024 02:00 PM 05:00 PM YSC 117
+NURS-3230-01 Family Chronic Illness Dec-15-2024 02:00 PM 05:00 PM MCDH 242
+NURS-3230-02 Family Chronic Illness Dec-15-2024 02:00 PM 05:00 PM MCDH 242
+PHIL-1110-01 Critical Thinking Dec-15-2024 02:00 PM 05:00 PM RL 235
+SDE-8550-01 Chemical/Biological Processes Dec-15-2024 02:00 PM 05:00 PM HSB 105
+SOC-2710-01 Self and Society Dec-15-2024 02:00 PM 05:00 PM SDMB 117
+BUS-4450-01 Brand Management Dec-15-2024 07:00 PM 10:00 PM SDMB 117
+CHEM-1110-01 General Chemistry I Dec-15-2024 07:00 PM 10:00 PM YSC 117
+CHEM-1110-02 General Chemistry I Dec-15-2024 07:00 PM 10:00 PM YSC 117
+CHEM-1110-03 General Chemistry I Dec-15-2024 07:00 PM 10:00 PM YSC 117
+CHEM-1110-04 General Chemistry I Dec-15-2024 07:00 PM 10:00 PM YSC 117
+NURS-1010L-01Nursing 1010 Lab Dec-16-2024 08:30 AM 05:00 PM HSB 202
+NURS-1010L-02Nursing 1010 Lab Dec-16-2024 08:30 AM 05:00 PM HSB 202
+AMS-3770-01 Combinatorial Optimization Dec-16-2024 09:00 AM 12:00 PM KMB 211
+BIO-4620-01 Watershed Ecology Dec-16-2024 09:00 AM 12:00 PM SDMB 409
+CHEM-3740-01 Inorganic Chemistry II Dec-16-2024 09:00 AM 12:00 PM SDMB 211
+CHEM-4410-01 Physical Organic Chemistry Dec-16-2024 09:00 AM 12:00 PM HSB 103
+EC-3910-01 Economics of Entrepreneurship Dec-16-2024 09:00 AM 12:00 PM
+Section Title Date
+Start
+Time
+End
+Time Location
+Generated Fri Nov 22 13:07:41 AST 2024
+2024 Fall Term
+Exam Schedule
+ENGN-3810-01 Systems Engineering Dec-16-2024 09:00 AM 12:00 PM FSDE 128A
+FN-1010-01 Concepts/Controversies Nutrit Dec-16-2024 09:00 AM 12:00 PM YSC 117
+KINE-4330-01 Psych. of Sport Performance Dec-16-2024 09:00 AM 12:00 PM HSB 106
+NURS-2130-01 Nursing of Young Families Dec-16-2024 09:00 AM 12:00 PM YSC 117
+NURS-2130-02 Nursing of Young Families Dec-16-2024 09:00 AM 12:00 PM YSC 117
+NURS-3340-01 Psychiatric & Mental Health Dec-16-2024 09:00 AM 12:00 PM
+NURS-3340-02 Psychiatric & Mental Health Dec-16-2024 09:00 AM 12:00 PM
+PHYS-3720-01 Statistical Physics I Dec-16-2024 09:00 AM 12:00 PM SDMB 117
+POLS-2530-01 Introduction Political Theory Dec-16-2024 09:00 AM 12:00 PM HSB 104
+RS-2880-01 Natural Law&catholic Tradition Dec-16-2024 09:00 AM 12:00 PM
+AMS-2160-01 Financial Mathematics I Dec-16-2024 02:00 PM 05:00 PM YSC 117
+BIO-2040-01 Zoology Dec-16-2024 02:00 PM 05:00 PM YSC 117
+BUS-2880-01 Evidence-Based Management Dec-16-2024 02:00 PM 05:00 PM YSC 117
+BUS-2880-02 Evidence-Based Management Dec-16-2024 02:00 PM 05:00 PM YSC 117
+BUS-2880-03 Evidence-Based Management Dec-16-2024 02:00 PM 05:00 PM YSC 117
+FN-3310-01 Introduction Research Methods Dec-16-2024 02:00 PM 05:00 PM YSC 117
+FN-4610-01 Clinical Nutrition II Dec-16-2024 02:00 PM 05:00 PM HSB 105
+KINE-3310-01 Intro to Research Methods Dec-16-2024 02:00 PM 05:00 PM YSC 117
+PHIL-1010-01 Introduction to Philosophy Dec-16-2024 02:00 PM 05:00 PM SDMB 117
+PSY-2600-01 Sensation and Perception Dec-16-2024 02:00 PM 05:00 PM FSDE 128A
+CS-2620-01 Comp Programming Languages Dec-16-2024 07:00 PM 10:00 PM YSC 117
+ENV-3210-01 Natural Hazards Dec-16-2024 07:00 PM 10:00 PM HSB 105
+PHIL-2220-01 Political Philosophy Dec-16-2024 07:00 PM 10:00 PM SDMB 432
+NURS-1010L-01Nursing 1010 Lab Dec-17-2024 08:00 AM 05:00 PM HSB 202
+NURS-1010L-02Nursing 1010 Lab Dec-17-2024 08:00 AM 05:00 PM HSB 202
+ACCT-1010-05 Intro. Accounting- Part I Dec-17-2024 09:00 AM 12:00 PM
+AMS-4080-01 Financial Mathematics II Dec-17-2024 09:00 AM 12:00 PM KMB 210
+AMS-4700-01 Short Term Insur Price/Reserv Dec-17-2024 09:00 AM 12:00 PM SDMB 420
+ANTH-1050-01 Introduction to Anthropology Dec-17-2024 09:00 AM 12:00 PM YSC 117
+CHEM-2210-01 Analytical Chemistry Dec-17-2024 09:00 AM 12:00 PM YSC 117
+CHEM-3310-01 Physical Chemistry II Dec-17-2024 09:00 AM 12:00 PM KMB 211
+CS-1910L-06 Computer Science 1910 Lab Dec-17-2024 09:00 AM 12:00 PM CSH 104
+CS-3110-01 Video Game Design Dec-17-2024 09:00 AM 12:00 PM SDMB 213
+EC-2420-01 The Economics of Tourism Dec-17-2024 09:00 AM 12:00 PM FSDE 128A
+ENG-3350-01 British Romantic Literature Dec-17-2024 09:00 AM 12:00 PM SDMB 117
+ENGN-1230-01 Engn Mechanics I: Statics Dec-17-2024 09:00 AM 12:00 PM YSC 117
+Section Title Date
+Start
+Time
+End
+Time Location
+Generated Fri Nov 22 13:07:41 AST 2024
+2024 Fall Term
+Exam Schedule
+FN-3210-01 Food Service System Management Dec-17-2024 09:00 AM 12:00 PM MCDH 328
+MATH-2420-01 Combinatorics I Dec-17-2024 09:00 AM 12:00 PM YSC 117
+MATH-3510-01 Real Analysis Dec-17-2024 09:00 AM 12:00 PM SDMB 211
+NURS-2120-01 Pathophysiology for Nursing Dec-17-2024 09:00 AM 12:00 PM HSB 106
+PARA-4020-01 Disaster Med, Crisis Response Dec-17-2024 09:00 AM 12:00 PM
+PHYS-1110-01 Physics for Physical Sci. I Dec-17-2024 09:00 AM 12:00 PM KMB 237
+PSY-4630-01 Critical Issues Contemp. Psych Dec-17-2024 09:00 AM 12:00 PM HSB 104
+BIO-1030-01 Animal Health Dec-17-2024 02:00 PM 05:00 PM
+BIO-2430-01 Physics of the Human Body Dec-17-2024 02:00 PM 05:00 PM HSB 104
+BUS-3340-01 Personal Finance Dec-17-2024 02:00 PM 05:00 PM
+BUS-3340-02 Personal Finance Dec-17-2024 02:00 PM 05:00 PM
+PHYS-2430-01 Physics of the Human Body Dec-17-2024 02:00 PM 05:00 PM HSB 104
+STAT-1910-01 Intro to Probability and Stats Dec-17-2024 02:00 PM 05:00 PM YSC 117
+STAT-1910-02 Intro to Probability and Stats Dec-17-2024 02:00 PM 05:00 PM YSC 117
+BUS-2310-01 Corporate Finance Dec-17-2024 07:00 PM 10:00 PM
+BUS-2310-02 Corporate Finance Dec-17-2024 07:00 PM 10:00 PM
+KINE-2510-01 Anatomical Kinesiology Dec-17-2024 07:00 PM 10:00 PM YSC 117
+KINE-3430-01 Physiological Assmnt/Training Dec-17-2024 07:00 PM 10:00 PM YSC 117
+MCS-3320-01 Theory of Computing Dec-17-2024 07:00 PM 10:00 PM YSC 117
+PSY-2700-02 Quantitative Research Methods Dec-17-2024 07:00 PM 10:00 PM YSC 117
+SPAN-1010-01 Introductory Spanish I Dec-17-2024 07:00 PM 10:00 PM YSC 117
+SPAN-1010-02 Introductory Spanish I Dec-17-2024 07:00 PM 10:00 PM YSC 117
+BIO-3750-01 Medical Microbiology Dec-18-2024 09:00 AM 12:00 PM YSC 117
+BIO-4660-01 Plant-Animal Interactions Dec-18-2024 09:00 AM 12:00 PM RL 235
+BUS-1710-01 Organizational Behaviour Dec-18-2024 09:00 AM 12:00 PM YSC 117
+BUS-1710-03 Organizational Behaviour Dec-18-2024 09:00 AM 12:00 PM
+BUS-1710-04 Organizational Behaviour Dec-18-2024 09:00 AM 12:00 PM YSC 117
+CS-1910L-02 Computer Science 1910 Lab Dec-18-2024 09:00 AM 12:00 PM CSH 104
+EC-3060-01 Intermed. Macroeconomics II Dec-18-2024 09:00 AM 12:00 PM
+ENG-2260-01 Crime and Detective Literature Dec-18-2024 09:00 AM 12:00 PM SDMB 117
+ENGN-1410-01 Sustainability in Engn Design Dec-18-2024 09:00 AM 12:00 PM YSC 117
+HIST-4240-01 Canadian Nationalism, Identity Dec-18-2024 09:00 AM 12:00 PM HSB 104
+PHYS-2020-01 Mechanics Dec-18-2024 09:00 AM 12:00 PM YSC 117
+PSY-3110-01 Physiological Psychology Dec-18-2024 09:00 AM 12:00 PM FSDE 128A
+PSY-4810-01 Psyc Thought and Practice Dec-18-2024 09:00 AM 12:00 PM MCDH 328
+CS-1910L-01 Computer Science 1910 Lab Dec-18-2024 02:00 PM 05:00 PM CSH 104
+Section Title Date
+Start
+Time
+End
+Time Location
+Generated Fri Nov 22 13:07:41 AST 2024
+2024 Fall Term
+Exam Schedule
+EC-2040-01 Intermediate Macroeconomics I Dec-18-2024 02:00 PM 05:00 PM YSC 117
+STAT-1210-01 Introductory Statistics Dec-18-2024 02:00 PM 05:00 PM YSC 117
+STAT-1210-02 Introductory Statistics Dec-18-2024 02:00 PM 05:00 PM YSC 117
+ENV-1010-01 Intro to Environmental Studies Dec-18-2024 07:00 PM 10:00 PM YSC 117
+VBS-2140-1 Veterinary Pharmacology II Jan-15-2025 08:00 AM 09:00 AM AVC 201N
+VCA-3621-1 Adv Small Animal Pain Mngmt Jan-20-2025 11:30 AM 12:20 PM AVC 201N
