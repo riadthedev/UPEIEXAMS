@@ -5,9 +5,14 @@ import dbConnect from '@/lib/mongodb'
 import UserExam from '@/models/user-exam'
 import Exam from '@/models/exam'
 
+type RouteParams = {
+  params: Promise<{
+    id: string;
+  }>
+}
 export async function GET(
   request: Request,
-  context: { params: { id: string } }
+  context: RouteParams
 ) {
   const { id } = await context.params
   try {
