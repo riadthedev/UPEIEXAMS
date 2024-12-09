@@ -4,10 +4,7 @@ import { authOptions } from '@/app/auth'
 import dbConnect from '@/lib/mongodb'
 import UserExam from '@/models/user-exam'
 
-export async function DELETE(
-  request: Request,
-  { params }: { params: { id: string; examID: string } }
-) {
+export async function DELETE(request: Request,{ params }: { params: { id: string; examID: string } }) {
   const { id, examID } = await params
   try {
     const session = await getServerSession(authOptions)
