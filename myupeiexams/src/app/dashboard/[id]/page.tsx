@@ -23,8 +23,11 @@ interface UserExam {
   _id: string
   examId: Exam
 }
-type Props ={
-  params: Promise<{ id: string }>
+type Props = {
+  params: Promise<{ 
+    id: string;
+    examID?: string;  // The ? makes it optional
+  }>
 }
 export default function DashboardPage({ params }:Props) {
   const {id} = use(params);
