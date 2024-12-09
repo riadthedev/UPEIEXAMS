@@ -5,8 +5,11 @@ import dbConnect from '@/lib/mongodb'
 import UserExam from '@/models/user-exam'
 import Exam from '@/models/exam'
 
-export async function GET(request: Request, { params }: { params: { id: string } }) {
-  const { id } = await params
+export async function GET(
+  request: Request,
+  context: { params: { id: string } }
+) {
+  const { id } = await context.params
   try {
     const session = await getServerSession(authOptions)
     if (!session?.user?.id) {
@@ -26,8 +29,11 @@ export async function GET(request: Request, { params }: { params: { id: string }
   }
 }
 
-export async function POST(request: Request, { params }: { params: { id: string } }) {
-  const { id } = await params
+export async function POST(
+  request: Request,
+  context: { params: { id: string } }
+) {
+  const { id } = await context.params
   try {
     const session = await getServerSession(authOptions)
     if (!session?.user?.id) {
