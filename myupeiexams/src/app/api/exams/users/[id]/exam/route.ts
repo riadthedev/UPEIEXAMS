@@ -36,7 +36,7 @@ export async function GET(
 
 export async function POST(
   request: Request,
-  context: { params: { id: string } }
+  context: RouteParams
 ) {
   const { id } = await context.params
   try {
