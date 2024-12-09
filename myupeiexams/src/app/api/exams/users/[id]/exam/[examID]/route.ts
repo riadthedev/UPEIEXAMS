@@ -4,15 +4,18 @@ import { authOptions } from '@/app/auth'
 import dbConnect from '@/lib/mongodb'
 import UserExam from '@/models/user-exam'
 
-type Props = {
-  params: {
+type RouteParams = {
+  params: Promise<{
     id: string;
     examID: string;
-  };
-};
+  }>
+}
 
-export async function DELETE(request: Request, { params }: Props) {
-  const { id, examID } = await params
+export async function DELETE(
+  request: Request,
+  context: RouteParams
+) {
+  const { id, examID } = await context.params
   try {
     const session = await getServerSession(authOptions)
     if (!session?.user?.id) {
